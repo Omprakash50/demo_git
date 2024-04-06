@@ -1,0 +1,8 @@
+1.Agile(cross-functional Scrum team)
+2.Postman 
+3.REST API testing 
+4.Git and GitHub
+5.CI/CD (e.g. Jenkins, Drone CI etc.) 
+6.Containers (e.g. Docker, Kubernetes)
+7.JMeter or any other performance/load testing tool
+8.GraphQL
